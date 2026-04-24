@@ -1,4 +1,4 @@
-Flask_HTTPAuth==3.2.4
+Flask_HTTPAuth==4.8.1
 Flask==1.0.2
 TwitterAPI==2.5.9
 mysql_connector_repackaged==0.3.1
